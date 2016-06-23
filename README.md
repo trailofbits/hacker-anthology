@@ -13,5 +13,3 @@ The Hacker Anthology is a collection of stock media assets of real hackers. All 
 ## Motion Graphics
 
 * [Hacker Home Base](hacker_home_base) - a "hacker typer"-like computer display showing a growing number of compromised hosts
-
-[Email us](mailto:dan@trailofbits.com) if you have special needs requiring non-attribution for your project.
